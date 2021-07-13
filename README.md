@@ -17,4 +17,8 @@ python3 wSSHv.py
 
 NOW You can change the name of the .ps1 and test it yourself!
 
-GOOD LUCK !
+
+bulided by this Source:
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#spawn-tty-shell
+
+Good Luck!
